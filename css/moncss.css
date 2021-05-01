@@ -1,0 +1,12 @@
+
+/* ----------------------------------------------------------------
+    TYPOGRAPHY HEADING STYLES
+-----------------------------------------------------------------*/
+
+.h1 {
+    color: #1111;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    text-rendering: optimizelegibility;
+    margin-top: 0;
+}
